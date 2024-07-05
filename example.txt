@@ -1,1 +1,1 @@
-Hi, I am learning git and shell
+Hi, I am learning git and shell scripting
