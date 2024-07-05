@@ -1,1 +1,3 @@
 Hi, I am learning git and shell scripting
+
+added new jobs and scedules
